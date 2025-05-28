@@ -77,7 +77,7 @@
 - VMware Workstation Pro
 - Rocky Linux 9.5 ISO
 - Kali Linux ISO  
-- 최소 8GB RAM, 50GB 디스크 공간
+- 최소 4GB RAM, 50GB 디스크 공간
 
 ### ⚡ **설치 및 실행**
 
@@ -181,13 +181,6 @@ Rocky-Linux-/
 이슈를 발견하시면 [GitHub Issues](https://github.com/DeveloperMODE-korea/Rocky-Linux-/issues)에 신고해주세요.
 
 ---
-
-## 📄 라이선스
-
-이 프로젝트는 **MIT 라이선스** 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
-
----
-
 ## 🔒 보안 주의사항
 
 > **⚠️ 중요**: 본 프로젝트는 **교육 목적**으로 제작되었습니다.
@@ -201,7 +194,7 @@ Rocky-Linux-/
 ## 👨‍💻 개발자
 
 **김성주** - 소프트웨어융합과 2학년
-- 📧 Email: [이메일 주소]
+- 📧 Email: [freexxx9206@naver.com]
 - 🔗 GitHub: [@DeveloperMODE-korea](https://github.com/DeveloperMODE-korea)
 
 ---
